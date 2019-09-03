@@ -1,5 +1,5 @@
 {
-  "name": "NewsScraper",
+  "name": "newsscraper",
   "version": "1.0.0",
   "description": "NewsScraper is a web application that lets users view and leave comments on the latest news using Mongoose and Cheerio.",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
+    "mongojs": "^2.6.0",
     "mongoose": "^5.6.5",
     "morgan": "^1.9.1"
   }
